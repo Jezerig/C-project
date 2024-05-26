@@ -1,5 +1,4 @@
 # Different kinds of projects done in C
-Three different folders each with their own projects.
 
 Project 1: Warmup to C and Unix programming
 - Reversing a text file using a linked list
